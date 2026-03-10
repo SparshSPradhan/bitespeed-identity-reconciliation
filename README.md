@@ -2,8 +2,12 @@
 
 > A backend web service that identifies and consolidates customer contacts across multiple purchases using different email addresses and phone numbers.
 
-**Live Endpoint:** `https://YOUR_APP_URL/identify`  
-*(Replace with your deployed URL after hosting on Render/Railway)*
+**Live Endpoint:** 
+
+
+## Live API Endpoint
+
+POST https://bitespeed-identity-reconciliation-3wda.onrender.com/identify
 
 ---
 
